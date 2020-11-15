@@ -1,0 +1,28 @@
+#title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#dateSelectContainer, #classSelectContainer{
+    flex: 1;
+}
+
+#dateSelectContainer{
+    margin-left: 10px;
+}
+
+.table{
+    margin-top: 10px;
+    display: none;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
